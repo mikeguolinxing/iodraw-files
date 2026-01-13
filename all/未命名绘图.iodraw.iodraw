@@ -55,8 +55,14 @@
         <mxCell id="pG4BYF2axEX_O_CBN9Io-13" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;环境状态更新&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pG4BYF2axEX_O_CBN9Io-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pG4BYF2axEX_O_CBN9Io-15" target="pG4BYF2axEX_O_CBN9Io-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pG4BYF2axEX_O_CBN9Io-15" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;奖励函数计算&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;（搜索 / 追踪 / 围捕 / 避障）&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pG4BYF2axEX_O_CBN9Io-17" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
