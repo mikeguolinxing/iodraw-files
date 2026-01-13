@@ -14,10 +14,7 @@
           <mxGeometry x="602" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jVJRnvhwqzjYMWRvf7DY-6" value="&#xa;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jVJRnvhwqzjYMWRvf7DY-7" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="370" width="30" height="40" as="geometry" />
+          <mxGeometry x="106" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
