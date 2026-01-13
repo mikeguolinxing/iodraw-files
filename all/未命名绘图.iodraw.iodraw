@@ -7,7 +7,7 @@
         <mxCell id="jVJRnvhwqzjYMWRvf7DY-1" value="&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 16pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;AirSim的无人集群自主决策系统&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="226" y="50" width="376" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jVJRnvhwqzjYMWRvf7DY-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jVJRnvhwqzjYMWRvf7DY-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="106" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jVJRnvhwqzjYMWRvf7DY-3" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14px; text-align: start; text-wrap: nowrap;&quot;&gt;AirSim 仿真平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
