@@ -7,10 +7,13 @@
         <mxCell id="pG4BYF2axEX_O_CBN9Io-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="40" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pG4BYF2axEX_O_CBN9Io-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pG4BYF2axEX_O_CBN9Io-2" target="pG4BYF2axEX_O_CBN9Io-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pG4BYF2axEX_O_CBN9Io-2" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;AirSim 场景与任务初始化&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pG4BYF2axEX_O_CBN9Io-3" value="系统参数配置&lt;div&gt;（无人机数量、场景、算法参数）&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="pG4BYF2axEX_O_CBN9Io-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;系统参数配置&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;（无人机数量、场景、算法参数）&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="60" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pG4BYF2axEX_O_CBN9Io-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pG4BYF2axEX_O_CBN9Io-1" target="pG4BYF2axEX_O_CBN9Io-3">
@@ -27,6 +30,9 @@
         </mxCell>
         <mxCell id="pG4BYF2axEX_O_CBN9Io-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pG4BYF2axEX_O_CBN9Io-7" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
